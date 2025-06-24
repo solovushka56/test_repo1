@@ -1,1 +1,10 @@
-{"innerRectColorHex":"#0D6D80","mainRectColorHex":"#2BBD97","projectDescription":"cloned from git","projectName":"yo","projectPath":"/data/user/0/com.skeeper.minicode/files/projects/yo","tags":["git"]}
+{
+  "description": "cloned from git",
+  "innerRectColorHex": "#0D6D80",
+  "mainRectColorHex": "#2BBD97",
+  "name": "test",
+  "path": "/data/user/0/com.skeeper.minicode/files/projects/test",
+  "tags": [
+    "git"
+  ]
+}
