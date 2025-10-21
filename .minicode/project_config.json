@@ -1,9 +1,10 @@
 {
   "description": "cloned from git",
-  "innerRectColorHex": "#0D6D80",
-  "mainRectColorHex": "#2BBD97",
-  "name": "test",
-  "path": "/data/user/0/com.skeeper.minicode/files/projects/test",
+  "innerRectColorHex": "#2D246D",
+  "mainFilePath": "",
+  "mainRectColorHex": "#4C3BCF",
+  "name": "test_repo1",
+  "path": "/data/user/0/com.skeeper.minicode/files/projects/test_repo1",
   "tags": [
     "git"
   ]
